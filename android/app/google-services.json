@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267140839181",
+    "firebase_url": "https://flutter-ewallet.firebaseio.com",
+    "project_id": "flutter-ewallet",
+    "storage_bucket": "flutter-ewallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267140839181:android:c24412bfcb3894adc32244",
+        "android_client_info": {
+          "package_name": "com.monstarlab.ksv_flutter_ewallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267140839181-g9bnv9ru4mb63sl4jqi7dqf71hjf1a9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLMP3Pa30GT6L_W81-UW_1_XET1gIWeLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267140839181-g9bnv9ru4mb63sl4jqi7dqf71hjf1a9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
